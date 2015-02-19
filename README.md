@@ -8,7 +8,7 @@ For example:
 Press button 1 followed by button 3 > Turns On (Light Window (Lamp Raam))<br />
 Press button 3 followed by button 1> Turns Off (Light Window (Lamp Raam))<br />
 
-# Complete Layout as is now:
+# Complete Layout now:
 
 Button 1 (Single Press) > Turn Off (Upstairs Back Light (Boven Achter Uit))<br />
 Button 2 (Press And Hold) > Turn On (Upstairs Back Light (Boven Achter Aan))<br />
