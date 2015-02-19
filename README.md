@@ -8,7 +8,7 @@ For example:
 Press button 1 followed by button 3 > Turns On (Light Window (Lamp Raam))<br />
 Press button 3 followed by button 1> Turns Off (Light Window (Lamp Raam))<br />
 
-Compleet Layout as is now:
+# Complete Layout as is now:
 
 Button 1 (Single Press) > Turn Off (Upstairs Back Light (Boven Achter Uit))<br />
 Button 2 (Press And Hold) > Turn On (Upstairs Back Light (Boven Achter Aan))<br />
@@ -22,7 +22,7 @@ Button 6 (Press And Hold) > Turn On (Upstairs Front Light (Boven Voor Aan))<br /
 Button 7 (Single Press) > Turn Off (Light Bench Off (Lamp Bank Uit))<br />
 Button 8 (Press And Hold) > Turn On (Light Bench On (Lamp Bank Aan))<br />
 
-Button Combos --------------------------
+# Button Combos --------------------------
 
 Press Button 1 followed by button 3 > Turns On (Light Window (Lamp Raam))<br />
 Press Button 3 followed by button 1 > Turns Off (Light Window (Lamp Raam))<br />
@@ -36,7 +36,7 @@ Press Button 7 followed by button 3 > Turns Off (Desk Light Kyra (Lamp Buro Kyra
 Press Button 5 followed by button 7 > Turns On (Fish Light (Lamp Vissen))<br />
 Press Button 7 followed by button 5 > Turns Off (Fish Light (Lamp Vissen))<br />
 
-Debugging to do... 
+# Debugging to do... 
 
 If for example Upstairs Light Front = On<br />
 And you want to turn of the Desk Light Kay<br />
